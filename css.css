@@ -1,0 +1,64 @@
+body
+{
+    background-color: rgb(206, 218, 233);
+}
+
+.navbar-brand{
+    height: 90px;
+    
+}
+
+/* * carousel-item{
+    height: 700px;
+} */
+
+.map{
+    padding: 50px;
+}
+
+.col-sm-5{
+    display: flexbox;
+}
+.container-contact{
+    display: flex;
+ 
+}
+.container-1{
+    display: flex;
+    padding:10px;
+ 
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.article-pic, .article-text{
+    display: flex;
+}
+.container-little-article {
+    display: flex;
+    
+}
+#Footer
+{
+    position: fixed;
+    bottom: 0;
+}
+.form-reg{
+    display: flex;
+    position: fixed;
+}
+.img-error{
+    display: flex;
+    position: fixed;
+}
